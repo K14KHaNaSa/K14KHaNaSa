@@ -2,7 +2,7 @@
 
 ### About K14KHaNaSa
 #### "Jaewon Chung" from Suwon, South Korea  
-[Mar 2018 ~ Feb 2022] School of Computer Science and Information Engineering, The Catholic University of Korea.  
+[Mar 2018 ~ Feb 202X] School of Computer Science and Information Engineering, The Catholic University of Korea.  
 [2021 F/W Semester] Vice-Director of Dept. of Voluntary, CUK Club Union, The Catholic University of Korea (a.k.a. CUK).  
 [Jul 3 2018 ~ Feb 22 2020] **Military Service Obligation** as sergeant spotter from Sniper team, 106 Mechanized Infantry Battalion, 2nd Armored Brigade, Republic Of Korea Army.  
 [Mar 2016 ~ Feb 2018] Department of Computer Information, Dongseoul University.  
