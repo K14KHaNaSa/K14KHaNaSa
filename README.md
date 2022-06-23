@@ -2,18 +2,19 @@
 
 ### About K14KHaNaSa
 #### "Jaewon Chung" from Suwon, South Korea  
-[Mar 2018 ~ Feb 202X] School of Computer Science and Information Engineering, The Catholic University of Korea.  
-[2021 F/W Semester] Vice-Director of Dept. of Voluntary, CUK Club Union, The Catholic University of Korea (a.k.a. CUK).  
+[Mar 2018 ~ Feb 202X] School of Computer Science and Information Engineering, The Catholic University of Korea (a.k.a. CUK).  
+[2022 S/S Semester] Director of Dept. of Voluntary, CUK Club Union, The Catholic University of Korea.  
+[2021 F/W Semester] Vice-Director of Dept. of Voluntary, CUK Club Union, The Catholic University of Korea.  
 [Jul 3 2018 ~ Feb 22 2020] **Military Service Obligation** as sergeant spotter at Sniper team, 106 Mechanized Infantry Battalion, 2nd Armored Brigade, Republic Of Korea Army.  
 [Mar 2016 ~ Feb 2018] Department of Computer Information, Dongseoul University.  
 
 #### I'm interested in
 ##### KONAMI Arcade Music Games
-- **Beatmania IIDX** SP 8th-Dan  
+- **Beatmania IIDX** SP 9th-Dan  
 - **Nostalgia**  
 - **Gitadora**  
 ##### PC Games
-- **Dungeon & Fighter** by Neople / Nexon
+- **EZ2ON REBOOT : R** by NeoNovice & SQUARE PIXELS
 - **Cyphers** by Neople / Nexon
 - **DJMAX RESPECT V** by Neowiz
 
