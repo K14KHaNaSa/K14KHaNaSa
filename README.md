@@ -1,3 +1,5 @@
+
+
 ### Hi there 👋
 
 ### About K14KHaNaSa
@@ -7,6 +9,9 @@
 [2021 F/W Semester] Vice-Director of Dept. of Voluntary, CUK Club Union, The Catholic University of Korea.  
 [Jul 3 2018 ~ Feb 22 2020] **Military Service Obligation** as sergeant spotter at Sniper team, 106 Mechanized Infantry Battalion, 2nd Armored Brigade, Republic Of Korea Army.  
 [Mar 2016 ~ Feb 2018] Department of Computer Information, Dongseoul University.  
+
+
+[![Solved.ac/profile/chjone0417](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjone0417)](https://solved.ac/chjone0417)
 
 #### I'm interested in
 ##### KONAMI Arcade Music Games
@@ -18,10 +23,10 @@
 - **Cyphers** by Neople / Nexon
 - **DJMAX RESPECT V** by Neowiz
 
-#### My github exist for archive sources
+<!-- #### My github exist for archive sources
 
 "Baekjoon Online Judge" Algorithm solving answers.  
-https://www.acmicpc.net/user/chjone0417
+https://www.acmicpc.net/user/chjone0417 -->
 
 
 
