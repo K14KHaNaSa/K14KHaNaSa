@@ -4,7 +4,7 @@
   
 ### I'm Solving Problems at  
 #### Baekjoon Online Judge "chjone0417"  
-[![Solved.ac/profile/chjone0417](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjone0417)](https://solved.ac/chjone0417)  
+[![Solved.ac/profile/chjone0417](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjone0417)](https://solved.ac/chjone0417)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chjone0417&theme=warm)  
 #### [Codeforces](https://codeforces.com/) "KHaNaSa"
 [![Codeforces.com/profile/KHaNaSa](https://cf.leed.at?id=KHaNaSa)](https://codeforces.com/profile/KHaNaSa)  
