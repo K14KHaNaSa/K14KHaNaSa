@@ -3,10 +3,10 @@
 ### Hi there 👋  
   
 ### I'm Solving Problems at  
-#### Baekjoon Online Judge "chjone0417"  
+#### [Baekjoon Online Judge](https://www.acmicpc.net/) "[chjone0417](https://www.acmicpc.net/user/chjone0417)"  
 [![Solved.ac/profile/chjone0417](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjone0417)](https://solved.ac/chjone0417)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chjone0417&theme=warm)  
-#### [Codeforces](https://codeforces.com/) "KHaNaSa"
+#### [Codeforces](https://codeforces.com/) "[KHaNaSa](https://codeforces.com/profile/KHaNaSa)"
 [![Codeforces.com/profile/KHaNaSa](https://cf.leed.at?id=KHaNaSa)](https://codeforces.com/profile/KHaNaSa)  
   
 ### About K14KHaNaSa  
@@ -34,7 +34,7 @@
 ##### KONAMI Arcade Music Games
 - **[Beatmania IIDX](https://p.eagate.573.jp/game/2dx/30/index.html)** SP 9th-Dan (KHNASA / 1132-9004)  
 - **[Nostalgia](https://p.eagate.573.jp/game/nostalgia/op3/top/entrance.html)**  
-- **[Gitadora](https://p.eagate.573.jp/game/gfdm/gitadora_fuzzup/p/index.html)**  (狙撃小銃K14ちゃん / 00AD264637) (GuitarFreaks Purple / DrumMania Blue Gradation)  
+- **[Gitadora](https://p.eagate.573.jp/game/gfdm/gitadora_fuzzup/p/index.html)** (GuitarFreaks Purple / DrumMania Blue Gradation) (狙撃小銃K14ちゃん / 00AD264637)  
 ##### PC Games
 - **[EZ2ON REBOOT : R](https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/)** by NeoNovice & SQUARE PIXELS
 - **[Cyphers](https://cyphers.nexon.com/)** by Neople from Nexon
