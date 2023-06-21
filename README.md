@@ -26,7 +26,7 @@
 [Mar 2016 ~ Feb 2018] [Department of Computer Information](https://dept.du.ac.kr/info/Main.do;jsessionid=6C67809A4B999C11D098AEB79EBC5CA8), [Dongseoul University](https://www.du.ac.kr/eng/main.do).  / Associate degree of Engineering  
 
 ### Activities  
-[Apr. 2023 ~ ???] [SSAFY(Samsung SW Academy For Youth)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) Ambassador at The Catholic University of Korea  
+[Apr. 2023] [SSAFY(Samsung SW Academy For Youth)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) Ambassador at The Catholic University of Korea  
 [Jan. 15 2023] [Hello, BOJ 2023!](https://2022w.ucpc.me/hello/) [On-sight Contest](https://www.acmicpc.net/contest/view/936) Contestant as handle name "chjone0417" at Samsung Electronics SNU cooperation R&D Center  
 (To be edited soon)  
   
