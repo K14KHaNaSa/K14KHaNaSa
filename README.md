@@ -3,7 +3,7 @@
 ### Hi there 👋  
   
 ### I'm Solving Problems at  
-#### [Baekjoon Online Judge](https://www.acmicpc.net/) "[chjone0417](https://www.acmicpc.net/user/chjone0417)"  
+#### [Baekjoon Online Judge](https://www.acmicpc.net/) "[chjone0417](https://www.acmicpc.net/user/chjone0417)" <img src="https://ac-arena.vercel.app/mini/chjone0417" />    
 [![Solved.ac/profile/chjone0417](http://mazassumnida.wtf/api/v2/generate_badge?boj=chjone0417)](https://solved.ac/chjone0417)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chjone0417&theme=warm)  
 #### [Codeforces](https://codeforces.com/) "[KHaNaSa](https://codeforces.com/profile/KHaNaSa)"
