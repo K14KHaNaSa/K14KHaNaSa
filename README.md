@@ -13,6 +13,7 @@
 [![Codeforces.com/profile/KHaNaSa](https://cf.leed.at?id=KHaNaSa)](https://codeforces.com/profile/KHaNaSa)  
   
 ### About K14KHaNaSa  
+[2023년 8월 ~ 2023년 9월] [42 Seoul](https://42seoul.kr/seoul42/main/view) 라피신 과정 10기-2차 교육생  
 [2018년 3월 ~ 2023년 2월] [가톨릭대학교](https://www.catholic.ac.kr/index.do) [ICT공학계열 컴퓨터정보공학부](https://csie.catholic.ac.kr/csie/index.html) (졸업 / 컴퓨터정보공학사)  
 [2022학년도 1학기] 가톨릭대학교 성심교정 총동아리연합회 봉사분과장  
 [2021학년도 2학기] 가톨릭대학교 성심교정 총동아리연합회 봉사부분과장  
@@ -21,6 +22,7 @@
 [2016년 3월 ~ 2018년 2월] [동서울대학교](https://www.du.ac.kr/main.do) [컴퓨터정보과](https://dept.du.ac.kr/info/Main.do;jsessionid=6C67809A4B999C11D098AEB79EBC5CA8) (졸업 / 공업전문학사)  
 
 #### "Jaewon Chung" from Suwon, South Korea  
+[Aug 2023 ~ Sep 2023] [42 Seoul](https://42seoul.kr/seoul42/main/view) Pisciner of round 2, 10th La Piscine class  
 [Mar 2018 ~ Feb 2023] [School of Computer Science and Information Engineering, Field of ICT Engineering](https://csie.catholic.ac.kr/csie.eng/), [The Catholic University of Korea](https://www.catholic.ac.kr/english/main.do) (a.k.a. CUK).  / Bachelor of Engineering in Computer Science and Information Engineering  
 [2022 S/S Semester] Director of Dept. of Voluntary, CUK Club Assemble, Songsim campus, The Catholic University of Korea.  
 [2021 F/W Semester] Vice-Director of Dept. of Voluntary, CUK Club Assemble, Songsim campus, The Catholic University of Korea.  
@@ -30,7 +32,7 @@
 
 ### Activities  
 [Apr. 2023] [SSAFY(Samsung SW Academy For Youth)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) Ambassador at The Catholic University of Korea  
-[Jan. 15 2023] [Hello, BOJ 2023!](https://2022w.ucpc.me/hello/) [On-sight Contest](https://www.acmicpc.net/contest/view/936) Contestant as handle name "chjone0417" at Samsung Electronics SNU cooperation R&D Center  
+[Jan. 15 2023] [Hello, BOJ 2023!](https://2022w.ucpc.me/hello/) [On-sight Contest](https://www.acmicpc.net/contest/view/936) Contestant as handle name "chjone0417"  
 (To be edited soon)  
   
 #### I'm interested in
