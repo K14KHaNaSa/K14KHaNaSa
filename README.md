@@ -1,6 +1,6 @@
 
 ### Hi there 👋  
-#### I'm "Jaewon Chung" from Suwon, South Korea  
+I'm "Jaewon Chung" from Suwon, South Korea  
   
 ### I'm Solving Problems at  
 #### [Baekjoon Online Judge](https://www.acmicpc.net/) "[chjone0417](https://www.acmicpc.net/user/chjone0417)" 
