@@ -79,6 +79,11 @@ https://www.acmicpc.net/user/chjone0417 -->
 
 -->
 
+<!--  memo
+230622 솔브드 연속 365일 / 230725 solved.ac G1->P5 / 231010 1000solved
+
+-->
+
 <!--
 **K14KHaNaSa/K14KHaNaSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
