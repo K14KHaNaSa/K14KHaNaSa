@@ -13,6 +13,7 @@ I'm "Jaewon Chung" from Suwon, South Korea
 [![Codeforces.com/profile/KHaNaSa](https://cf.leed.at?id=KHaNaSa)](https://codeforces.com/profile/KHaNaSa)  
   
 ### About K14KHaNaSa  
+[2024년 9월 ~ 2025년 2월] <img width = "5%" src="https://github.com/user-attachments/assets/d60a6fae-2d91-477a-9065-30ae0b55b996"> [KT 에이블스쿨](https://aivle.kt.co.kr/home/main/indexMain) 6기 AI개발자 트랙 교육생  
 <!-- [2023년 8월 ~ 2023년 9월] <img width = "5%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/e8efbf27-b059-4aea-822c-6fb996a69296"> [42 Seoul](https://42seoul.kr/seoul42/main/view) 라피신 과정 10기-2차 교육생-->  
 [2018년 3월 ~ 2023년 2월] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> [가톨릭대학교](https://www.catholic.ac.kr/index.do) [ICT공학계열 컴퓨터정보공학부](https://csie.catholic.ac.kr/csie/index.do) (졸업 / **컴퓨터정보공학사**)  
 [2022학년도 1학기] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> 가톨릭대학교 성심교정 총동아리연합회 봉사분과장  
@@ -25,6 +26,7 @@ I'm "Jaewon Chung" from Suwon, South Korea
 <img width = "2%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/314e0881-5f2c-46fa-b3bc-8eb6dc8157bb"> [동서울대학교](https://www.du.ac.kr/main.do) [컴퓨터정보과](https://dept.du.ac.kr/info/Main.do;jsessionid=6C67809A4B999C11D098AEB79EBC5CA8) (졸업 / **공업전문학사**)  
 
 #### About K14KHaNaSa (in Eng)  
+[Sept 2024 ~ Feb 2025] <img width = "5%" src="https://github.com/user-attachments/assets/d60a6fae-2d91-477a-9065-30ae0b55b996"> [KT AIVLE School](https://aivle.kt.co.kr/home/main/indexMain) #6 AI Developer track AIVLER  
 <!-- [Aug 2023 ~ Sep 2023] <img width = "5%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/e8efbf27-b059-4aea-822c-6fb996a69296"> [42 Seoul](https://42seoul.kr/seoul42/main/view) Pisciner of round 2, 10th La Piscine class -->  
 [Mar 2018 ~ Feb 2023] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> [School of Computer Science and Information Engineering, Field of ICT Engineering](https://csie.catholic.ac.kr/csie/index.do), [The Catholic University of Korea](https://cuk.catholic.ac.kr/english/main.do) (a.k.a. CUK).  / **Bachelor of Engineering** in Computer Science and Information Engineering  
 [2022 S/S Semester] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> Chief of Division of Voluntary clubs, CUK Club Assemble, Songsim campus, The Catholic University of Korea.  
@@ -78,6 +80,8 @@ https://www.acmicpc.net/user/chjone0417 -->
 ![42seoul](https://github.com/K14KHaNaSa/bojPractice/assets/63581543/e8efbf27-b059-4aea-822c-6fb996a69296)
 
 ![KVF](https://github.com/K14KHaNaSa/bojPractice/assets/63581543/50478bc4-9b54-47fe-983f-789d49f74d01)
+
+![KT AIVLE](https://github.com/user-attachments/assets/d60a6fae-2d91-477a-9065-30ae0b55b996)
 
 -->
 
