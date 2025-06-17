@@ -27,7 +27,7 @@ I'm "Jaewon Chung" from Suwon, South Korea
 <img width = "2%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/314e0881-5f2c-46fa-b3bc-8eb6dc8157bb"> [동서울대학교](https://www.du.ac.kr/main.do) [컴퓨터정보과](https://dept.du.ac.kr/info/Main.do;jsessionid=6C67809A4B999C11D098AEB79EBC5CA8) (졸업 / **공업전문학사**)  
 
 #### About K14KHaNaSa (in Eng)  
-[Apr 2025 ~ Jun 2025] <img width = "2%" src ="https://github.com/user-attachments/assets/5e408732-a9e6-47ec-9c7b-967f08f243b8"> [KT Corp.](https://corp.kt.com/) Intern at AI Studio Lab TF, Media Division, KT Corp.  
+[Apr 2025 ~ Jun 2025] <img width = "2%" src ="https://github.com/user-attachments/assets/5e408732-a9e6-47ec-9c7b-967f08f243b8"> [KT Corp.](https://corp.kt.com/) Intern at AI Studio Lab TF, Media Group, KT Corp.  
 [Sept 2024 ~ Feb 2025] <img width = "5%" src="https://github.com/user-attachments/assets/d60a6fae-2d91-477a-9065-30ae0b55b996"> [KT AIVLE School](https://aivle.kt.co.kr/home/main/indexMain) #6 AI Developer track AIVLER  
 <!-- [Aug 2023 ~ Sep 2023] <img width = "5%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/e8efbf27-b059-4aea-822c-6fb996a69296"> [42 Seoul](https://42seoul.kr/seoul42/main/view) Pisciner of round 2, 10th La Piscine class -->  
 [Mar 2018 ~ Feb 2023] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> [School of Computer Science and Information Engineering, Division of ICT Engineering](https://csie.catholic.ac.kr/csie/translation/english.do), [The Catholic University of Korea](https://www.catholic.ac.kr/en/index.do) (a.k.a. CUK).  / **Bachelor of Engineering** in Computer Science and Information Engineering  
