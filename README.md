@@ -1,8 +1,13 @@
 
 ### Hi there 👋  
 I'm "Jaewon Chung" from Suwon, South Korea  
+수원 사는 정재원이라고 합니다 반갑습니다.  
+이 ReadMe는 언제 정리될까요?  
+기술 스택이나 그런 것들도 좀 넣어줘야 하는데 꽤나 귀찮네요  
+<== 연락... 주시고 싶으시면 왼쪽 인스타로 DM 보내주세요?  
   
-### I'm Solving Problems at  
+<!-- ### I'm Solving Problems at  -->
+### 알고리즘을 좀 많이 풀어왔습니다. 은근 오랫동안  
 #### [Baekjoon Online Judge](https://www.acmicpc.net/) "[chjone0417](https://www.acmicpc.net/user/chjone0417)" 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chjone0417)](https://solved.ac/chjone0417)
@@ -12,7 +17,8 @@ I'm "Jaewon Chung" from Suwon, South Korea
 #### [Codeforces](https://codeforces.com/) "[KHaNaSa](https://codeforces.com/profile/KHaNaSa)"
 [![Codeforces.com/profile/KHaNaSa](https://cf.leed.at?id=KHaNaSa)](https://codeforces.com/profile/KHaNaSa)  
   
-### About K14KHaNaSa  
+<!-- ### About K14KHaNaSa  -->
+### 대충 어떻게 지냈나요?  
 [2025년 4월 ~ 2025년 6월] <img width = "2%" src="https://github.com/user-attachments/assets/5e408732-a9e6-47ec-9c7b-967f08f243b8"> [주식회사 케이티](https://corp.kt.com/) 미디어부문 AI Studio Lab TF 소속 인턴  
 [2024년 9월 ~ 2025년 2월] <img width = "5%" src="https://github.com/user-attachments/assets/d60a6fae-2d91-477a-9065-30ae0b55b996"> [KT 에이블스쿨](https://aivle.kt.co.kr/home/main/indexMain) 6기 AI개발자 트랙 교육생  
 <!-- [2023년 8월 ~ 2023년 9월] <img width = "5%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/e8efbf27-b059-4aea-822c-6fb996a69296"> [42 Seoul](https://42seoul.kr/seoul42/main/view) 라피신 과정 10기-2차 교육생-->  
@@ -26,20 +32,23 @@ I'm "Jaewon Chung" from Suwon, South Korea
 [2016년 3월 ~ 2018년 2월] 
 <img width = "2%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/314e0881-5f2c-46fa-b3bc-8eb6dc8157bb"> [동서울대학교](https://www.du.ac.kr/main.do) [컴퓨터정보과](https://dept.du.ac.kr/info/Main.do;jsessionid=6C67809A4B999C11D098AEB79EBC5CA8) (졸업 / **공업전문학사**)  
 
-#### About K14KHaNaSa (in Eng)  
-[Apr 2025 ~ Jun 2025] <img width = "2%" src ="https://github.com/user-attachments/assets/5e408732-a9e6-47ec-9c7b-967f08f243b8"> [KT Corp.](https://corp.kt.com/) Intern at AI Studio Lab TF, Media Group, KT Corp.  
-[Sept 2024 ~ Feb 2025] <img width = "5%" src="https://github.com/user-attachments/assets/d60a6fae-2d91-477a-9065-30ae0b55b996"> [KT AIVLE School](https://aivle.kt.co.kr/home/main/indexMain) #6 AI Developer track AIVLER  
-<!-- [Aug 2023 ~ Sep 2023] <img width = "5%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/e8efbf27-b059-4aea-822c-6fb996a69296"> [42 Seoul](https://42seoul.kr/seoul42/main/view) Pisciner of round 2, 10th La Piscine class -->  
-[Mar 2018 ~ Feb 2023] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> [School of Computer Science and Information Engineering, Division of ICT Engineering](https://csie.catholic.ac.kr/csie/translation/english.do), [The Catholic University of Korea](https://www.catholic.ac.kr/en/index.do) (a.k.a. CUK).  / **Bachelor of Engineering** in Computer Science and Information Engineering  
-[2022 S/S Semester] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> Chief of Division of Voluntary clubs, CUK Club Assemble, Songsim campus, The Catholic University of Korea.  
-[2021 F/W Semester] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> Vice-Chief of Division of Voluntary clubs, CUK Club Assemble, Songsim campus, The Catholic University of Korea.  
-[Jul 3 2018 ~ Feb 22 2020] 
-<img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/1a85d662-9aa6-420a-b568-6aa1bf2073ce"> **Military Service Obligation** as sergeant spotter at Sniper team, 106 Mechanized Infantry Battalion, The 2nd Armored Brigade, [Republic Of Korea Army](https://www.army.mil.kr/sites/army/index.do).  
-[Mar 2018] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> Passed Undergraduate transfer admission to School of Computer Science and Information Engineering, Field of Engineering, The Catholic University of Korea.  
-[Mar 2016 ~ Feb 2018] 
-<img width = "2%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/314e0881-5f2c-46fa-b3bc-8eb6dc8157bb"> [Department of Computer Information](https://dept.du.ac.kr/info/Main.do;jsessionid=6C67809A4B999C11D098AEB79EBC5CA8), [Dongseoul University](https://www.du.ac.kr/eng/main.do).  / **Associate degree** of Engineering  
 
-### Activities  
+<!-- #### About K14KHaNaSa (in Eng)  
+<!-- [Apr 2025 ~ Jun 2025] <img width = "2%" src ="https://github.com/user-attachments/assets/5e408732-a9e6-47ec-9c7b-967f08f243b8"> [KT Corp.](https://corp.kt.com/) Intern at AI Studio Lab TF, Media Group, KT Corp.  
+<!-- [Sept 2024 ~ Feb 2025] <img width = "5%" src="https://github.com/user-attachments/assets/d60a6fae-2d91-477a-9065-30ae0b55b996"> [KT AIVLE School](https://aivle.kt.co.kr/home/main/indexMain) #6 AI Developer track AIVLER  
+<!-- [Aug 2023 ~ Sep 2023] <img width = "5%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/e8efbf27-b059-4aea-822c-6fb996a69296"> [42 Seoul](https://42seoul.kr/seoul42/main/view) Pisciner of round 2, 10th La Piscine class -->  
+<!-- [Mar 2018 ~ Feb 2023] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> [School of Computer Science and Information Engineering, Division of ICT Engineering](https://csie.catholic.ac.kr/csie/translation/english.do), [The Catholic University of Korea](https://www.catholic.ac.kr/en/index.do) (a.k.a. CUK).  / **Bachelor of Engineering** in Computer Science and Information Engineering  
+<!-- [2022 S/S Semester] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> Chief of Division of Voluntary clubs, CUK Club Assemble, Songsim campus, The Catholic University of Korea.  
+<!-- [2021 F/W Semester] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> Vice-Chief of Division of Voluntary clubs, CUK Club Assemble, Songsim campus, The Catholic University of Korea.  
+<!-- [Jul 3 2018 ~ Feb 22 2020] 
+<img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/1a85d662-9aa6-420a-b568-6aa1bf2073ce"> **Military Service Obligation** as sergeant spotter at Sniper team, 106 Mechanized Infantry Battalion, The 2nd Armored Brigade, [Republic Of Korea Army](https://www.army.mil.kr/sites/army/index.do).  
+<!-- [Mar 2018] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> Passed Undergraduate transfer admission to School of Computer Science and Information Engineering, Field of Engineering, The Catholic University of Korea.  
+<!-- [Mar 2016 ~ Feb 2018] 
+<img width = "2%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/314e0881-5f2c-46fa-b3bc-8eb6dc8157bb"> [Department of Computer Information](https://dept.du.ac.kr/info/Main.do;jsessionid=6C67809A4B999C11D098AEB79EBC5CA8), [Dongseoul University](https://www.du.ac.kr/eng/main.do).  / **Associate degree** of Engineering  -->
+
+
+<!-- ### Activities  -->
+### 아무튼 인생의 좋은 경험이었던 것  
 <!-- [Apr. 2023] [SSAFY(Samsung SW Academy For Youth)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) Ambassador at The Catholic University of Korea   -->
 [Jan. 15 2023] [Hello, BOJ 2023!](https://2022w.ucpc.me/hello/) [On-sight Contest](https://www.acmicpc.net/contest/view/936) Contestant as handle name "chjone0417"[^1][^2]  
 
@@ -56,9 +65,7 @@ I'm "Jaewon Chung" from Suwon, South Korea
 [Feb 2024] PCCP(코딩전문역량인증)(Programmers Certified Coding Professional) C++ Lv.5(MASTER) by Grepp, Inc.  
 
 
-    
-<!-- Edit list : certifications : pccp c++ master, engineer information processing(national technical qualification certificate)-->  
-
+### 그밖에 개인적으로 뭐가 있을까요  
   
 #### I'm interested in
 ##### KBO League  
