@@ -19,6 +19,7 @@ I'm "Jaewon Chung" from Suwon, South Korea
   
 <!-- ### About K14KHaNaSa  -->
 ### 대충 어떻게 지냈나요?  
+[2025년 9월 16일] 대한적십자사 헌혈유공장 은장 포장  
 [2025년 4월 ~ 2025년 6월] <img width = "2%" src="https://github.com/user-attachments/assets/5e408732-a9e6-47ec-9c7b-967f08f243b8"> [주식회사 케이티](https://corp.kt.com/) 미디어부문 AI Studio Lab TF 소속 인턴  
 [2024년 9월 ~ 2025년 2월] <img width = "5%" src="https://github.com/user-attachments/assets/d60a6fae-2d91-477a-9065-30ae0b55b996"> [KT 에이블스쿨](https://aivle.kt.co.kr/home/main/indexMain) 6기 AI개발자 트랙 교육생  
 <!-- [2023년 8월 ~ 2023년 9월] <img width = "5%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/e8efbf27-b059-4aea-822c-6fb996a69296"> [42 Seoul](https://42seoul.kr/seoul42/main/view) 라피신 과정 10기-2차 교육생-->  
