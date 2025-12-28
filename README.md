@@ -26,7 +26,7 @@ I'm "Jaewon Chung" from Suwon, South Korea
 [2018년 3월 ~ 2023년 2월] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> [가톨릭대학교](https://www.catholic.ac.kr/index.do) [ICT공학계열 컴퓨터정보공학부](https://csie.catholic.ac.kr/csie/index.do) (졸업 / **컴퓨터정보공학사**)  
 [2022학년도 1학기] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> 가톨릭대학교 성심교정 총동아리연합회 봉사분과장  
 [2021학년도 2학기] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> 가톨릭대학교 성심교정 총동아리연합회 봉사부분과장  
-[2020 ~ ] <img width = "5%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/50478bc4-9b54-47fe-983f-789d49f74d01"> [대한민국 병무청 병역명문가](https://www.mma.go.kr/hall/2020/index.do) [(경인청 정재원 가문)](https://www.mma.go.kr/hall/gggb/2020/subView.do?jbc_cd=05&bymyeongmunga_grno=%EA%B2%BD%EC%9D%B8-85&byihjinjeung_no=undefined&mc=mma0002493)  
+[2020 ~ ] <img width = "5%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/50478bc4-9b54-47fe-983f-789d49f74d01"> [대한민국 병무청 병역명문가](https://www.mma.go.kr/hall/2020/index.do) [(경인청 정재원 가문)](https://www.mma.go.kr/hall/gggb/subView.do?jbc_cd=05&bymyeongmunga_grno=%EA%B2%BD%EC%9D%B8-85&byihjinjeung_no=2020-599&mc=mma0003373&yr=2020)  
 [2018년 7월 3일 ~ 2020년 2월 22일] 
 <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/1a85d662-9aa6-420a-b568-6aa1bf2073ce"> [대한민국 육군](https://www.army.mil.kr/sites/army/index.do) 제2기갑여단 병장 만기전역 (보병 / 소총수)  
 [2018년 3월] <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/9a0c9794-0109-4411-9fc3-2397b6f3254f"> 가톨릭대학교 공학계열 컴퓨터정보공학부 편입학  
