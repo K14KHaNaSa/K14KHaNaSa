@@ -63,7 +63,7 @@ I'm "Jaewon Chung" from Suwon, South Korea
 
 [Jan 2025] <img width = "5%" src="https://github.com/user-attachments/assets/a1b7c514-ef96-4184-850e-86c927a1b7f3"> AICE(AI Certificate for Everyone) Associate by KT Corp. + Hankyung  
 [Jun 2024] 정보처리기사(Engineer Information Processing) by Human Resources Development Service of Korea  
-[Feb 2024] PCCP(코딩전문역량인증)(Programmers Certified Coding Professional) C++ Lv.5(MASTER) by Grepp, Inc.  
+[Feb 2024] ~~PCCP(코딩전문역량인증)(Programmers Certified Coding Professional) C++ Lv.5(MASTER) by Grepp, Inc.~~ Expired in 2026.02, validity : 2 years  
 
 
 ### 그밖에 개인적으로 뭐가 있을까요  
