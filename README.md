@@ -1,6 +1,7 @@
 
 ### Hello, dev warriorz 👋  
 I'm "Jaewon Chung" from Suwon, South Korea  
+I'm planning on project of radical audio and visual experiences with AI🤔
 ***Editing README(260225 - ing)***
 
 [![Solved.ac
