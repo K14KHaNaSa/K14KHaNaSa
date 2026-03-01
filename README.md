@@ -2,7 +2,8 @@
 ### Hello, dev warriorz 👋  
 I'm "Jaewon Chung" from Suwon, South Korea  
 I'm planning on project of radical audio and visual experiences with AI🤔  
-***Editing README(260225 - ing)***
+***Editing README(260225 - ing)***  
+**이사중으로 인하여 더 걸립니다?**
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chjone0417)](https://solved.ac/chjone0417)
