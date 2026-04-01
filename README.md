@@ -22,6 +22,10 @@ I'm planning on project of radical audio and visual experiences with AI🤔
 <img width = "3%" src="https://github.com/K14KHaNaSa/bojPractice/assets/63581543/1a85d662-9aa6-420a-b568-6aa1bf2073ce"> [대한민국 육군](https://www.army.mil.kr/sites/army/index.do) 제2기갑여단 병장 만기전역 (보병 / 소총수) -->  
 
 ### Experiences in works  
+**KTR(Korea Testing & Research Institute)** Staff at AI Convergence Center, AISW Research Institute (Apr 2026 - ing)
+- 1yr fixed-term contract, renewable for one additional year  
+- Support software test & evaluation for GS(Good Software) Certification in Korea
+
 <img width = "2%" src ="https://github.com/user-attachments/assets/5e408732-a9e6-47ec-9c7b-967f08f243b8"> **[KT Corp.](https://corp.kt.com/)** Ex-Intern at AI Studio Lab TF, Media Group, KT Corp. (Apr 2025 - Jun 2025)  
 - Participated in a short-term exploratory internship program
 - Contributed to Automation Media Content Production Project using AI Tech (Drama to Short-Form, Lyrics Video)
